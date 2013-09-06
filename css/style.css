@@ -1,0 +1,53 @@
+/* CSS Generic */
+
+body{font-family: Arial, Helvetica, sans-serif;zoom: 1}
+body *{direction: rtl}
+ul{overflow-x:hidden !important; }
+form ul li {float: right !important;margin-bottom: 10px;}
+.ui-menu .ui-menu-item{clear: right !important;}
+#switcher ul {direction: ltr;}
+div.jquery-ui-switcher-list-hldr{right: 0 !important;}
+.mainContent{display: none;}
+
+/*Loader*/
+#loader{font-size: 24px;margin: 100px auto 0;text-align: center;}
+/*tooltip*/
+.ui-tooltip-content{text-align: right;}
+
+/* form */
+.formBody
+{
+    padding: 10px 20px 13px 0;
+    font-size: 16px;
+    color: #010101;
+    position: relative;
+    width: 600px;
+}
+
+/*Pictures*/
+.PicWrap{margin: 0px 4px 0 0;clear: both;}
+.PicContainer{width: auto;height: 386px;padding: 29px 20px 0 20px;}
+    .pic{ float: right;margin: 0px 0 9px 6px;width: 173px;}
+        .ImgContainer{width: 173px;height: 173px;background:url(../img/square.png) 0 0 no-repeat; }
+        .pic img{width: 160px;height: 160px;margin: 6px 6px 0 0}
+.data{height: 20px;overflow: hidden;direction: ltr;position: relative;padding-top:6px;  }
+    .name{width: 136px;text-align: center;float: right;font-size: 18px;line-height: 20px;}
+
+/*Steps*/
+.step1,.step2,.step3{display: none;}
+
+div.form.step_1 li.step1{display: block;float: right;}
+div.form.step_2 li.step2{display: block;}
+
+/*step1*/
+#search{float: right;}
+
+/*step2*/
+.step_2 .step2{display: block}
+.step_2 form {visibility: hidden;}
+#searching{position: absolute;top: 9px;left: 0px;width: 100%;text-align: right;}
+#searching p{font-size: 17px;color: black;text-align: center;margin-bottom: auto;margin-top: 1px;height: 20px;line-height: 20px;}
+#searching p span{color: #297BA2;font-weight: bold;}
+.Next{float: right;padding:0 14px;}
+
+footer{clear: both;float: none;text-align: center;display: none;padding-top: 20px;}

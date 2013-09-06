@@ -1,0 +1,129 @@
+﻿<?xml version="1.0"?>
+<places>
+	<place>
+		<img>img/Foods/1.jpg</img>
+		<name>מסעדה1</name>
+		<location>חולון</location>
+        <region>0</region>
+        <description>
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+        </description>
+	</place>
+	<place>
+		<img>img/Foods/2.jpg</img>
+		<name>מסעדה2</name>
+		<location>קרית שמונה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/3.jpg</img>
+		<name>מסעדה3</name>
+		<location>חיפה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/4.jpg</img>
+		<name>שם מסעדה</name>
+		<location>דימונה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/5.jpg</img>
+		<name>5מסעדה</name>
+		<location>אפקה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/6.jpg</img>
+		<name>מסעדה6</name>
+		<location>שדרות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/7.jpg</img>
+		<name>מסעדה7</name>
+		<location>נתיבות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/8.jpg</img>
+		<name>מסעדה8</name>
+		<location>אביגדור</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/9.jpg</img>
+		<name>9מסעדה</name>
+		<location>ירושלים</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/10.jpg</img>
+		<name>מסעדה10</name>
+		<location>צפת</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/11.jpg</img>
+		<name>11מסעדה</name>
+		<location>יפו</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/12.jpg</img>
+		<name>12מסעדה</name>
+		<location>אשקלון</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/13.jpg</img>
+		<name>13מסעדה</name>
+		<location>רחובות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/14.jpg</img>
+		<name>מסעדה14</name>
+		<location>יבנה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/15.jpg</img>
+		<name>מסעדה15</name>
+		<location>אשדוד</location>
+        <region>2</region>
+	</place>
+</places>
+<!--
+{name:'אוכל1',area:'חולון',src:'img/Foods/1.jpg',areaCode:Areas.center},
+{name:'אוכל2',area:'הדרום',src:'img/Foods/2.jpg',areaCode:Areas.south},
+{name:'אוכל3',area:'ת"א',src:'img/Foods/3.jpg',areaCode:Areas.center},
+{name:'אוכל4',area:'ת"א',src:'img/Foods/4.jpg',areaCode:Areas.center},
+{name:'אוכל5',area:'חולון',src:'img/Foods/5.jpg',areaCode:Areas.center},
+{name:'אוכל6',area:'הצפון',src:'img/Foods/6.jpg',areaCode:Areas.north},
+{name:'אוכל7',area:'יבנה',src:'img/Foods/7.jpg',areaCode:Areas.shfela},
+{name:'אוכל8',area:'חולון',src:'img/Foods/8.jpg',areaCode:Areas.center},
+{name:'אוכל9',area:'הדרום',src:'img/Foods/9.jpg',areaCode:Areas.south},
+{name:'אוכל10',area:'השרון',src:'img/Foods/10.jpg',areaCode: Areas.sharon},
+{name:'אוכל11',area:'כ"ס',src:'img/Foods/11.jpg',areaCode: Areas.sharon},
+{name:'אוכל12',area:'המרכז',src:'img/Foods/12.jpg',areaCode:Areas.center},
+{name:'אוכל13',area:'המרכז',src:'img/Foods/13.jpg',areaCode:Areas.center},
+{name:'אוכל14',area:'הצפון',src:'img/Foods/14.jpg',areaCode:Areas.north},
+{name:'אוכל15',area:'הצפון',src:'img/Foods/15.jpg',areaCode:Areas.north}
+
+/*
+Area codes:
+0: מרכז
+1: צפון
+2: דרום
+3: שרון
+4: שפלה
+*/
+
+
+-->
+

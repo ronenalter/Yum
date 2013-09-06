@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<META NAME="Description" CONTENT="אתר לחיפוש אוכל">
+	<META NAME="KEYWORDS" CONTENT="אוכל, חיפוש אוכל, אוכל טעים,איפה לאכול">
+    <title>יאם</title>
+    <link rel="shortcut icon" href="./favicon.ico" />
+    <link rel="apple-touch-icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/themeroller/tagit.css">
+    <link rel="stylesheet" type="text/css" href="css/themeroller/bootstrap/Bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.0/themes/base/jquery-ui.css" />    
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body dir="ltr">
+    <header>
+        <h1>כותרת ראשית</h1>
+        <h2>כותרת משנית</h2>
+    </header>
+    <nav>
+        <h3>תפריט ראשי</h3>
+        <a href="#">אודות</a>
+        <a href="#">צור קשר</a>
+        <a href="./best/index.html">עשרת הטובים</a>
+    </nav>
+    <div id="loader" dir="rtl">הדף נטען...
+        <img src="./img/ajax-loader.gif" alt="loading..." />
+    </div>
+    <div class="mainContent" dir="rtl">
+        <div id="switcher_parent">
+          <div id="switcher"></div>
+        </div>
+        <aside>
+            <p>עשר המנות הטובות ביותר</p>
+        </aside>
+	    <div class="MainWrap">               
+            <div class="form step_1">
+    	        <div class="formBody">
+                    <form action="">
+                        <p class="text">
+                            <span class="text">אני רוצה לאכול:</span>
+                        </p>
+                        <ul id="SearchField"></ul>
+            	        <input id="search" onclick="return false;" type="submit" value="שלח" tabindex="3" />
+                        <a class="Next" href="javascript:void(0)">עמוד הבא</a>
+                        <a class="Prev" href="javascript:void(0)">עמוד קודם</a>
+                    </form>
+                    <div id="searching" class="step2">
+                        <p>מאתר <span id="food"></span></p>
+                    </div>
+                </div><!--end formBody-->
+            </div><!--end form-->
+            <div class="PicWrap">
+                <div class="PicContainer" title="one"></div>
+            </div>
+        </div>
+    </div><!--end mainContent-->
+    <footer>All rights reserved &copy; Yum 2012</footer>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="http://code.jquery.com/ui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="js/tagit-themeroller.js" type="text/javascript"></script>
+    <script src="themeswitcher/jquery.themeswitcher.js" type="text/javascript"></script>
+    <script src="js/functions.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/site.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
+

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0"?>
+<places>
+	<place>
+		<img>img/Foods/11.jpg</img>
+		<name>מסעדה11</name>
+		<location>חולון</location>
+        <region>0</region>
+        <description>
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+            מסעדה קטנה שמגישה אוכל על רמה
+        </description>
+	</place>
+	<place>
+		<img>img/Foods/12.jpg</img>
+		<name>מסעדה12</name>
+		<location>קרית שמונה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/13.jpg</img>
+		<name>1מסעדה3</name>
+		<location>חיפה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/14.jpg</img>
+		<name>שם מסעדה</name>
+		<location>דימונה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/15.jpg</img>
+		<name>15מסעדה</name>
+		<location>אפקה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/1.jpg</img>
+		<name>1מסעדה6</name>
+		<location>שדרות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/2.jpg</img>
+		<name>1מסעדה7</name>
+		<location>נתיבות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/4.jpg</img>
+		<name>1מסעדה8</name>
+		<location>אביגדור</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/8.jpg</img>
+		<name>19מסעדה</name>
+		<location>ירושלים</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/9.jpg</img>
+		<name>1מסעדה10</name>
+		<location>צפת</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/3.jpg</img>
+		<name>11מסעדה</name>
+		<location>יפו</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/4.jpg</img>
+		<name>12מסעדה</name>
+		<location>אשקלון</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/5.jpg</img>
+		<name>13מסעדה</name>
+		<location>רחובות</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/6.jpg</img>
+		<name>מסעדה14</name>
+		<location>יבנה</location>
+        <region>2</region>
+	</place>
+    <place>
+		<img>img/Foods/7.jpg</img>
+		<name>מסעדה15</name>
+		<location>אשדוד</location>
+        <region>2</region>
+	</place>
+</places>
+
+<!--
+Area codes:
+0: מרכז
+1: צפון
+2: דרום
+3: שרון
+4: שפלה
+-->
+
